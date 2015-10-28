@@ -1,0 +1,13 @@
+# Plugin metadata
+name: {php} Shortcode
+version: 1.0.0
+description: "Re-enable the <code>{php}</code> shortcode in Morfy 1.1.0+"
+author:
+  name: Taufik Nurrohman
+  url: http://latitudu.com
+homepage: https://github.com/tovic/php-shortcode-plugin-for-morfy-cms
+bugs: https://github.com/tovic/php-shortcode-plugin-for-morfy-cms/issues
+license: GPL v3
+
+# Plugin settings
+enabled: true
